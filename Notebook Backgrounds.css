@@ -211,6 +211,34 @@ div > pre {
   --metadata-input-background-active: var(--accent-color-trans);
 }
 
+.page-full-width {
+  /* background-color: rebeccapurple; */
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-inline: 0% !important;
+}
+
+.page-full-width .metadata-container {
+  /* background-color: rgb(153, 54, 51) !important; */
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-inline: 0% !important;
+}
+
+.page-full-width .cm-content{
+  /* background-color: rgb(14, 227, 103) !important; */
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-inline: 0% !important;
+}
+
+.page-full-width .cm-content{
+  /* background-color: rgb(14, 227, 103) !important; */
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-inline: 0% !important;
+}
+
 /* ------------------------------- Pen Colors ------------------------------- */
 
 .pen-white {
